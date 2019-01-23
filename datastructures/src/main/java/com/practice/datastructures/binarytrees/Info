@@ -1,0 +1,10 @@
+Each node can have maximum two children.
+Binary Search Tree - A node's left child must have a value less than its parent
+A node's right child must have a value greater than or equal to its parent
+common operations
+find, insert, traverse, delete
+When the data items that need to be arranged in a tree arrive in an ascending or
+descending order, tree becomes unbalanced and its efficiency may be seriously degraded.
+
+
+implement Huffman Encoding using priority queue and binary tree
