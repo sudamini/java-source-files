@@ -1,7 +1,8 @@
 package com.daily.pratice.concept.multithreading;
 
 /**
- * This class shows impact of false sharing on class's performance. False sharing occurs because of heavy multithreading use on multicore cpus if operating system
+ * This class shows impact of false sharing on class's performance.
+ * False sharing occurs because of heavy multithreading use on multicore cpus if operating system
  * uses same cache line to store multiple variables being operated by independent threads.
  */
 class FalseSharing {
