@@ -1,6 +1,5 @@
-package com.daily.pratice.HackerRank;
+package com.daily.pratice.hackerrank;
 
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
